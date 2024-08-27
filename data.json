@@ -1,0 +1,52 @@
+{
+    "pessoas": [
+      {
+        "tipo": "Pessoa Física",
+        "nome": "João da Silva",
+        "cpf": "123.456.789-00",
+        "idade": 30,
+        "endereco": {
+          "rua": "Rua das Flores",
+          "numero": 123,
+          "cidade": "Curitiba",
+          "estado": "PR"
+        },
+        "telefone": "(41) 99999-8888",
+        "email": "joao.silva@example.com"
+      },
+      {
+        "tipo": "Pessoa Física",
+        "nome": "Maria Oliveira",
+        "cpf": "987.654.321-00",
+        "idade": 25,
+        "endereco": {
+          "rua": "Avenida Central",
+          "numero": 456,
+          "cidade": "São Paulo",
+          "estado": "SP"
+        },
+        "telefone": "(11) 98888-7777",
+        "email": "maria.oliveira@example.com"
+      },
+      {
+        "tipo": "Pessoa Jurídica",
+        "razaoSocial": "Empresa X LTDA",
+        "cnpj": "12.345.678/0001-99",
+        "nomeFantasia": "Empresa X",
+        "fundacao": "2010-05-15",
+        "endereco": {
+          "rua": "Rua Empresarial",
+          "numero": 789,
+          "cidade": "Rio de Janeiro",
+          "estado": "RJ"
+        },
+        "telefone": "(21) 99999-6666",
+        "email": "contato@empresax.com.br",
+        "representante": {
+          "nome": "Carlos Souza",
+          "cargo": "Diretor Executivo"
+        }
+      }
+    ]
+  }
+  
